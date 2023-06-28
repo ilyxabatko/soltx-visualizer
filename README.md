@@ -6,11 +6,11 @@ You can change the endpoint in the "tx-details.js" file.
 
 ## App link
 
-TBA
+https://soltx-visualizer.vercel.app/
 
 ## Local start
 ```
-git clone TBA
+git clone https://github.com/ilyxabatko/soltx-visualizer.git && cd soltx-visualizer
 npm install 
 npm start
 ```
